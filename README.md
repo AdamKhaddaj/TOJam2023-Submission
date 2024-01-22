@@ -1,0 +1,3 @@
+Journey on the Stellarix 9000 is a choose-your-own-adventure style game where you are responsbile for you and your companion's safe passage on a perilous journey. However, it seems that not everyone will be capable of making it...
+
+The theme for this GameJam was "You must leave it behind". You can try out the game here: https://plinkocreature.itch.io/journey-on-the-stellarix-9000
